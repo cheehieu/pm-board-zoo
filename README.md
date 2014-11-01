@@ -10,7 +10,7 @@ This repository includes (for each EVM):
 - AfternoonCape config file
 
 Board Zoo Animals:
-- Duck (AM335x)
-- Cat (AMx)
-- Dog (AMx)
-- Turtle (AMx)
+- Duck (AM335x GP EVM)
+- Dog (AM437x GP EVM Alpha)
+- Cat (AM43xx X EVM Alpha)
+- Turtle (AM43xx X EVM Beta)
