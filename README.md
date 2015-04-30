@@ -1,7 +1,7 @@
 pm-board-zoo
 ============
 
-<img src="http://niftyhedgehog.com/pm-board-zoo/images/line_display.jpg">
+<img src="http://niftyhedgehog.com/pm-board-zoo/images/line_display_crop.jpg">
 
 ## Overview
 The PM Board Zoo is a collection of animal-inspired PCBs designed as adapter boards for simplifying power measurements with various TI Sitara ARM microprocessor evaluation modules (EVMs). Each EVM has current shunt resistors and 2-pin headers to output the bus and shunt voltages of a given supply. However, due to routing constaints, these 2-pin headers are sporadically (dis)organized on the EVM boards. This makes it difficult and tedious to measure the power consumption on different EVMs using the same automated setup. Each adapter board in the PM Board Zoo was created to organize the header pins into a more manageable interface, consolidating the 2-pin headers into a simplified, standardized connector for interfacing with an automated digital multimeter setup or other power monitoring equipment such as the [AfternoonCape](http://niftyhedgehog.com/afternoon-cape).
